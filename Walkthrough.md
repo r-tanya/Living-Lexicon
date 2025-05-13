@@ -1,4 +1,4 @@
-# 📱 Living Lexicon – Functionalities Walkthrough
+# Living Lexicon – Functionalities Walkthrough
 
 The **Basic Form prototype** for Living Lexicon was developed for Android devices using the following technologies:
 
@@ -8,7 +8,7 @@ The **Basic Form prototype** for Living Lexicon was developed for Android device
 
 ---
 
-## 🔍 1. Search Words
+## 1. Search Words
 
 - Enter a word on the search screen to fetch definitions and parts of speech from the web.  
   - Press the button with the search icon or hit Enter.  
