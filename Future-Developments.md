@@ -3,7 +3,6 @@
 The app's prototype version lays the foundation for an interactive dictionary experience. Future versions may refine and expand on these key areas:
 
 1. Core expansion: personalized vocabulary lists
-   
   • Organize saved words into categories or “lessons” related to work, school, interests, media titles, etc. (e.g., Chemistry, Geography, Cooking)
   • Drag and drop words into different lists
   • Visual indicators showing which words belong to which categories
