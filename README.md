@@ -16,6 +16,8 @@ The prototype for Living Lexicon was developed using the following:
 - SQLite for local database management
 - Web scraping using BeautifulSoup and Requests libraries to retrieve definitions
 
+---
+
 **Credits:** Definitions provided by the GNU Collaborative International Dictionary of English.
 
 #### Additional Documentation
