@@ -43,14 +43,14 @@ The prototype for Living Lexicon lays the foundation for an interactive dictiona
    - Allow users to share specialized word lists — e.g., a teacher sharing curated lists with students based on subject  
 
 6. **Advanced features for long-term expansion**
-   - Aesthetic options: Themes, dark mode  
-   - Integration: Save words directly from eBooks, web articles, and apps  
-   - Multilingual support: Define English words in different languages and allow switching between language modes  
-   - Voice features: Word pronunciation playback and voice search  
-   - Statistics and insights: Visual graphs showing vocabulary growth, category usage, search trends, and learning streaks  
+   - Aesthetic options: themes, dark mode  
+   - Integration: save words directly from eBooks, web articles, and apps  
+   - Multilingual support: define English words in different languages and allow switching between language modes  
+   - Voice features: word pronunciation playback and voice search  
+   - Statistics and insights: visual graphs showing vocabulary growth, category usage, search trends, and learning streaks  
    - AI-powered enhancements:  
      - AI-generated example sentences  
      - Word predictions while typing  
-     - Category detection and tagging — Suggest categories for newly added words and automatically organize words by topic  
-     - Smart word suggestions — Recommend related words to add to categories  
+     - Suggest categories for newly added words and automatically organize words by topic  
+     - Recommend related words to add to categories  
 
