@@ -1,10 +1,4 @@
-# Living Lexicon – Functionalities Walkthrough
-
-The **Basic Form prototype** for Living Lexicon was developed for Android devices using the following technologies:
-
-- **Python (Kivy framework)**
-- **SQLite** for local database management
-- **Web scraping** using BeautifulSoup and Requests libraries to retrieve definitions
+## Living Lexicon – Functionalities Walkthrough
 
 ---
 
