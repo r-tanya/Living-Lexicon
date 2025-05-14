@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Search Words
+### 1. Search Words
 
 - Enter a word on the search screen to fetch definitions and parts of speech from the web.  
   - Press the button with the search icon or hit Enter.  
@@ -11,7 +11,7 @@
 
 ---
 
-## 2. Review Words
+### 2. Review Words
 
 - Switch to the “My Dictionary” tab to view all searched words.
 
