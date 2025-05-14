@@ -13,23 +13,23 @@
 
 - Choose from three view modes:
 
-  ### • List View
+  List View
   - Word and shortest definition displayed side-by-side  
   - Definitions scrollable horizontally
   - Press the ‘+’ button beside a word to return to the search screen and view **all definitions** of that word  
 
-  ### • Compressed View
+  Compressed View
   - Simple word grid for scanning saved vocabulary quickly  
 
-  ### • Flashcard View
+  Flashcard View
   - Review words by tapping on a card to reveal the shortest definition  
 
 - Choose from six sorting modes:
 
-  ### • Alphabetical (A → Z, Z → A)  
-  ### • By Search Date (Newest → Oldest, Oldest → Newest)  
-  ### • By Search Frequency (Most → Least, Least → Most)  
-  ### • Frequency appears as a numerical label to the left of each word  
+  • Alphabetical (A → Z, Z → A)  
+  • By Search Date (Newest → Oldest, Oldest → Newest)  
+  • By Search Frequency (Most → Least, Least → Most)  
+  • Frequency appears as a numerical label to the left of each word  
 
 - Default mode is List View with A → Z sorting  
 - Returning to the Dictionary screen preserves the last used view and sort mode
