@@ -1,4 +1,4 @@
-# Future Developments
+## Future Developments
 
 The app's prototype version lays the foundation for an interactive dictionary experience. Future versions may refine and expand on these key areas:
 
