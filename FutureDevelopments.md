@@ -1,6 +1,6 @@
 ## Future Developments
 
-The app's prototype version lays the foundation for an interactive dictionary experience. Future versions may refine and expand on these key areas:
+Living Lexicon's prototype version lays the foundation for an interactive dictionary experience. Future versions may refine and expand on these key areas:
 
 1. **Core expansion: personalized vocabulary lists**
    - Organize saved words into categories or “lessons” related to work, school, interests, media titles, etc. (e.g., Chemistry, Geography, Cooking)  
