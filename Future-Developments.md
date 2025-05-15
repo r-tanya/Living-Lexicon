@@ -16,9 +16,10 @@ The prototype for Living Lexicon lays the foundation for an interactive dictiona
    - Visual indicators show which words belong to which categories  
    - Custom order lessons and words within them  
    - Quick-add option to save searches directly to a chosen list
-   - Collapsible sidebar to replace navigation buttons on the bottom of the screen:
+   
+   (Mockup) Collapsible sidebar to replace navigation buttons on the bottom of the screen:
      ![Current vs Sidebar UI](images/sidebar_mockup_1.png)
-     Sidebar expands when double-clicked, revealing nested lessons under the My Dictionary tab:
+   (Mockup) Sidebar expands when double-clicked, revealing nested lessons under the My Dictionary tab:
      ![Expanded Sidebar with Lessons](images/sidebar_mockup_2.png)
 
 3. **Improved learning experience**
