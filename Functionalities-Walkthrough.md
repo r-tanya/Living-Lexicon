@@ -5,7 +5,6 @@
   - Press the button with the search icon or hit Enter.  
 - The searched word and its definitions are automatically saved to a local database.  
   - If the word had been searched previously, definitions are fetched from the local database instead of the web.
-
 ![Search Screen](images/search_screen.png)
 
 ### 2. Review Words
