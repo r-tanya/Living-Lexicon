@@ -3,6 +3,7 @@ A personalized vocabulary-learning app with multiple display modes and sorting o
 
 ### Introduction
 Do you ever come across an unfamiliar word, look up its definition, and then forget it when it comes up again? What if you could create a custom dictionary—a way to store and track the words that keep cropping up across your life, work, and hobbies? 
+
 Living Lexicon makes defining, saving, and reviewing words a simple and natural task. This tool helps users stay on top of their vocabulary learning and dynamically expand their personal dictionary.
 
 ### Target Audience
