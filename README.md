@@ -24,4 +24,4 @@ The prototype for Living Lexicon was developed using the following:
 
 #### Additional Documentation:
 - [Functionalities](Functionalities.md)  
-- [Future Developments](FutureDevelopments.md)
+- [Future Developments](Future-Developments.md)
