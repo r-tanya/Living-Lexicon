@@ -9,7 +9,7 @@
 ### 2. Review Words
 - Switch to the “My Dictionary” tab to view all searched words.
   
-- Choose from three view modes:
+- Choose from three view modes:  
   - List View
     - Word and shortest definition displayed side-by-side  
     - Definitions scrollable horizontally
@@ -19,7 +19,7 @@
   - Flash cards View
     - Review words by tapping on a card to reveal the shortest definition  
 
-- Choose from six sorting modes:
+- Choose from six sorting modes:  
   - Alphabetical (A → Z, Z → A)  
   - By Search Date (Newest → Oldest, Oldest → Newest)  
   - By Search Frequency (Most → Least, Least → Most)  
