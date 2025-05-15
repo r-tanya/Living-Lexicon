@@ -20,6 +20,6 @@ The prototype for Living Lexicon was developed using the following:
 
 **Credits:** Definitions provided by the GNU Collaborative International Dictionary of English.
 
-#### Additional Documentation
+#### Additional Documentation:
 - [Functionalities Walkthrough](Walkthrough.md)  
 - [Future Developments](FutureDevelopments.md)
