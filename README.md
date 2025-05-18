@@ -1,5 +1,5 @@
 # Living-Lexicon
-A personalized vocabulary-learning app with multiple display modes and sorting options.
+A personalized vocabulary-learning application with multiple display modes and sorting options.
 
 ### Introduction
 Do you ever come across an unfamiliar word, look up its definition, and then forget it when it comes up again? What if you could create a custom dictionary—a way to store and track the words that keep cropping up across your life, work, and hobbies? 
