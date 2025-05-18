@@ -29,10 +29,10 @@
   - Alphabetical (A → Z, Z → A)
 ![Alphabetical Sorting](images/alphabetical_sorting.png)
 
-  - By Search Date (Newest → Oldest, Oldest → Newest)
+  - By Search Date (Oldest → Newest, Newest → Oldest)
 ![SearchDate Sorting](images/searchdate_sorting.png)
 
-  - By Search Frequency (Most → Least, Least → Most)  
+  - By Search Frequency (Least → Most, Most → Least)  
     - Frequency appears as a numerical label to the left of each word  
 ![Frequency Sorting](images/frequency_sorting.png)
 
